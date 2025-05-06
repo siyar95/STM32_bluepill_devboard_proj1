@@ -1,6 +1,6 @@
-# STM32 Blue Pill Dev Board – Project 1
+# STM32 Dev Board – Project 1
 
-This project is a custom **development board** designed around the **STM32F103C8T6** microcontroller ("Blue Pill").  
+This project is a custom **development board** designed around the **STM32F103C8T6** microcontroller.  
 It includes the essential peripherals for firmware development and prototyping:
 
 ## 🔧 Features
