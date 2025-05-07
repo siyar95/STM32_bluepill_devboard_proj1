@@ -10,3 +10,6 @@ It includes the essential peripherals for firmware development and prototyping:
 - **UART** interface for serial communication
 - **SWD (Single Wire Debug)** header for programming and debugging
 - **Linear voltage regulator** for stable 3.3V power supply
+
+
+![image](https://github.com/user-attachments/assets/78dc32cf-7a26-4ebd-81b3-3d9d5e3ba2da)
