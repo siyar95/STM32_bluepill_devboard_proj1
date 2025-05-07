@@ -13,3 +13,5 @@ It includes the essential peripherals for firmware development and prototyping:
 
 
 ![image](https://github.com/user-attachments/assets/78dc32cf-7a26-4ebd-81b3-3d9d5e3ba2da)
+
+![image](https://github.com/user-attachments/assets/2e464922-f3cd-4ef1-b948-ad29de6643e4)
